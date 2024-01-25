@@ -88,11 +88,11 @@ section.imagem > p {
 }
 
 section#img01 {
-  background-image: url(../img/img001.png);  
+  background-image: url(../img/img001.png); 
 }
 
 section#img02 {
-  background-image: url(/img/img002.png);  
+  background-image: url(/img/img002.png);
 }
 
 footer {
