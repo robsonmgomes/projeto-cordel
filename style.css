@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Passion+One&display=swap');
 @font-face {
   font-family: 'xilosa';
-  src: url(../fontes/xilosa.ttf) format('TrueType');
+  src: url(../fontes/xilosa.ttf) format('truetype');
 }
 
 :root {
@@ -73,7 +73,7 @@ section.normal {
 section.imagem {
   background-color: rgb(53, 53, 53);
   color: white;
-  box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.689);
+  box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.557);
   background-size: cover;
   background-attachment: fixed;
 }
