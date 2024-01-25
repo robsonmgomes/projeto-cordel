@@ -92,7 +92,7 @@ section#img01 {
 }
 
 section#img02 {
-  background-image: url(/img/img002.png);
+  background-image: url(./img/img002.png);
 }
 
 footer {
