@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Passion+One&display=swap');
 @font-face {
   font-family: 'xilosa';
-  src: url(/fontes/xilosa.ttf) format('TrueType');
+  src: url(../fontes/xilosa.ttf) format('TrueType');
 }
 
 :root {
